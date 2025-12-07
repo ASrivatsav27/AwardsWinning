@@ -36,12 +36,11 @@ Designed with smooth transitions, premium motion graphics, and Awwwards-style vi
     ├── public/               # Static assets
     ├── src/
     │   ├── components/       # UI components
-    │   ├── styles/           # Global styles
-    │   ├── animations/       # GSAP logic
+    │   ├── App.css/        
     │   ├── App.jsx           # Main app
+    │   ├── index.css          # Global styles
     │   └── main.jsx          # Entry point
     │
-    ├── tailwind.config.cjs   # Tailwind v4 config
     ├── vite.config.js        # Vite + Tailwind plugin
     ├── package.json
     └── README.md
