@@ -1,4 +1,4 @@
-# 🌐 Awwwards-Winning Website — React.js, Tailwind CSS v4, GSAP
+# 🌐 Awards-Winning Website — React.js, Tailwind CSS v4, GSAP
 
 **Live Demo:**  
 👉 https://awards-winning-git-main-srivatsavs-projects-7f830892.vercel.app/
